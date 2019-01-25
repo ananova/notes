@@ -59,7 +59,9 @@ You won't be able to use this straight away as you need to do a couple of things
 
 1. Find `~/project-dir/node_modules/react-native/Libraries/CameraRoll/RCTCameraRoll.xcodeproj`
 1. In your open project in Xcode, expand Libraries in the Project navigator
-  <img alt="libs" width=200 src="libs.png">
+    
+    <img alt="libs" width=200 src="libs.png">
+    
 1. Drag and drop `RCTCameraRoll.xcodeproj` to the list of Libraries
 1. In the top menubar go to Build Phases
 1. Expand "Link Binary With Libraries"
