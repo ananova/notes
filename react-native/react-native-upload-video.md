@@ -71,7 +71,7 @@ You won't be able to use this straight away as you need to do a couple of things
 1. In the top menubar go to "Info"
 1. Expand "Custom iOS Target Properties"
 1. Hover over any of them and click the little +
-1. Select "Privacy - Location When In Use Usage Description"
+1. Select "Privacy - Photo Library Usage Description"
 1. Add a description as to why your app requires camera roll permissions
 
 And we're done with Xcode!
